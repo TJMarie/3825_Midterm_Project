@@ -1,0 +1,1 @@
+3/29/24 3:36pm Adrien: please test the code and see if you have the same issues. each message sent to the server is displayed along with all of the messages before it. it gets really difficult to read. i dont know how to fix it yet. if you want to create a new branch to test dummy code that could be helpful. thx
